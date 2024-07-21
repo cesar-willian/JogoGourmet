@@ -1,0 +1,5 @@
+C:\Users\Willian\source\repos\JogoGourmet\JogoGourmet\bin\Release\net8.0-windows\publish\JogoGourmet.exe
+C:\Users\Willian\source\repos\JogoGourmet\JogoGourmet\bin\Release\net8.0-windows\publish\JogoGourmet.dll
+C:\Users\Willian\source\repos\JogoGourmet\JogoGourmet\bin\Release\net8.0-windows\publish\JogoGourmet.deps.json
+C:\Users\Willian\source\repos\JogoGourmet\JogoGourmet\bin\Release\net8.0-windows\publish\JogoGourmet.runtimeconfig.json
+C:\Users\Willian\source\repos\JogoGourmet\JogoGourmet\bin\Release\net8.0-windows\publish\JogoGourmet.pdb

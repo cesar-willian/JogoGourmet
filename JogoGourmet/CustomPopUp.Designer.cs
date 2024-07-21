@@ -40,7 +40,7 @@
             // lblMessage
             // 
             lblMessage.AutoSize = true;
-            lblMessage.Location = new Point(102, 29);
+            lblMessage.Location = new Point(78, 29);
             lblMessage.Name = "lblMessage";
             lblMessage.Size = new Size(50, 20);
             lblMessage.TabIndex = 0;
@@ -48,14 +48,14 @@
             // 
             // txtResult
             // 
-            txtResult.Location = new Point(102, 64);
+            txtResult.Location = new Point(78, 61);
             txtResult.Name = "txtResult";
             txtResult.Size = new Size(278, 27);
             txtResult.TabIndex = 1;
             // 
             // btnOk
             // 
-            btnOk.Location = new Point(102, 107);
+            btnOk.Location = new Point(78, 94);
             btnOk.Name = "btnOk";
             btnOk.Size = new Size(94, 29);
             btnOk.TabIndex = 2;
@@ -65,7 +65,7 @@
             // 
             // btnCancel
             // 
-            btnCancel.Location = new Point(202, 107);
+            btnCancel.Location = new Point(178, 94);
             btnCancel.Name = "btnCancel";
             btnCancel.Size = new Size(94, 29);
             btnCancel.TabIndex = 3;
@@ -76,9 +76,9 @@
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(12, 29);
+            pictureBox1.Location = new Point(25, 29);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(60, 62);
+            pictureBox1.Size = new Size(40, 40);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 4;
             pictureBox1.TabStop = false;
